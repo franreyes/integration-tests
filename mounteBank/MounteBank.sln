@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MounteBankExample", "MounteBankExample\MounteBankExample.csproj", "{90EF06B4-4524-414A-A6C6-F401ACB40347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MounteBankExample.Tests", "MounteBankExample.Tests\MounteBankExample.Tests.csproj", "{47CBD6A3-E30F-4227-8D7B-9AD734222448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90EF06B4-4524-414A-A6C6-F401ACB40347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EF06B4-4524-414A-A6C6-F401ACB40347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EF06B4-4524-414A-A6C6-F401ACB40347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EF06B4-4524-414A-A6C6-F401ACB40347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CBD6A3-E30F-4227-8D7B-9AD734222448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CBD6A3-E30F-4227-8D7B-9AD734222448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CBD6A3-E30F-4227-8D7B-9AD734222448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CBD6A3-E30F-4227-8D7B-9AD734222448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
